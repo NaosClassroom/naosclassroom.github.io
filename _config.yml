@@ -1,20 +1,20 @@
 # Configurations
-title:            Jekyll Gitbook
+title:            Guide to NAO
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Emile Kroeger
+email:            eREMOVETHISIFYOURNOTSPAM.kroeger@unitedrobotics.group
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://naosclassroom.github.io'
+baseurl:          '/guide-to-nao'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: naosclassroom/guide-to-nao
 
 toc:
   enabled: true
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+# disqushandler:            naosclassroom
 
 exclude:
   - _drafts
