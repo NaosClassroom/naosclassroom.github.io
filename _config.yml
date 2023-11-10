@@ -1,10 +1,10 @@
 # Configurations
 title:            Guide to NAO
-longtitle:        Jekyll Gitbook
+longtitle:        Guide to NAO
 author:           Emile Kroeger
 email:            eREMOVETHISIFYOURNOTSPAM.kroeger@unitedrobotics.group
 description: >
-  Build Jekyll site with the GitBook style.
+  Some documentation for NAO.
 
 version:          1.0
 gitbook_version:  3.2.3
