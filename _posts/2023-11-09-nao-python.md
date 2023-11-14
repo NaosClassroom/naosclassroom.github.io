@@ -1,5 +1,5 @@
 ---
-title: Programming NAO in Python 2
+title: Python 2 on NAO
 author: Emile Kroeger
 date: 2023-11-09
 category: NAO

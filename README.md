@@ -4,12 +4,6 @@ title: Guide to NAO
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
-
-## Demo
-
-Live demo on Github Pages: [https://naosclassroom.github.io/guide-to-nao](https://naosclassroom.github.io/guide-to-nao)
-
 # NAO6 Developer documentation
 
 Most documentation is [the NAOqi 2.8 reference documentation](http://doc.aldebaran.com/2-8/index.html), specifically the [Developer Guide](http://doc.aldebaran.com/2-8/index_dev_guide.html) which contains tutorials and a complete API reference.
