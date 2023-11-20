@@ -1,9 +1,11 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
+author: Emile Kroeger
+date: 2023-11-20
+category: About
 layout: post
 ---
 
-This is an contact page.
+For any inquires about NAO or Pepper, including technical support, see the [United Robotics Group contact](https://unitedrobotics.group/en/contact-us).
+
+If you have questions on NAO or Pepper development, you can ping me on Twitter [@EmileAndHisBots](https://twitter.com/EmileAndHisBots) (answer not guaranteed).

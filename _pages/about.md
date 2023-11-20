@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+This site is for tidbits about programming NAO and Pepper that didn't fit in the official documentation.
