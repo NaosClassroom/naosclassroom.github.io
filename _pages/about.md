@@ -1,8 +1,8 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: Emile Kroeger
+date: 2023-02-04
+category: About
 layout: post
 ---
 
