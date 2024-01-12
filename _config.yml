@@ -46,6 +46,10 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # Disqus comments
 # disqushandler:            naosclassroom
 
+twitter_username: EmileAndHisBots
+github_username: naosclassroom
+
+
 exclude:
   - _drafts
 
